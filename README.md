@@ -4,7 +4,7 @@
 
 ## Android Developer Challenge: helpful innovation, powered by On-Device Machine Learning + you!
 
-#### Tell us what your idea is. 
+### Tell us what your idea is. 
 My idea is to write a document scanning app using live object detection when the camera is pointed to a document and then:
 1. Exporting the scanned document asPDF
 2. Detecting font, text, and text size for heading and body and creating a digitized PDF to export.
@@ -13,7 +13,7 @@ My idea is to write a document scanning app using live object detection when the
 
 My long term plan for the idea is to enable the app to scan and digitize hardcopy of books which are not available as ebooks simply by pointing and scanning pages, translating them into different languages, and then exporting them to ebook formats like EPUB, MOBI, etc.
 
-#### Tell us how you plan on bringing it to life.
+### Tell us how you plan on bringing it to life.
 I plan to start working on the project right away and writing the major parts of the app to make it functional before working on the tiny details and the little features that would make the app stand out, so that the app is ready to be shipped after Phase I while I work on the other features.
 
 The first phase that I’d like to focus working on is:
@@ -43,7 +43,7 @@ Now that everything is nicely organized, here’s my planned timeline to complet
 2. Jan 20 - Feb 20: Work on Phase II and work on branding and promotion.
 3. Mar 20 - Apr 20: Work on Phase III and finalizing the app for showcasing and spotlighting.
 
-#### Tell us about you. 
+### Tell us about you. 
 My name is Waseef Akhtar and I’m a native of Pakistan’s picturesque province, Khyber Pakhtunkhwa. I currently work as an Android Developer with a swedish-based startup, Degoo Backup AB. I have over two years of experience with writing iOS and Android applications, and pride myself on having an artistic eye despite being “just” a developer. I love the opportunity to utilize both the artistic and the technical aspects of my brain.
 
 One of the major side projects that I’ve carried with myself since graduating university is a social network for music that I still work on in my spare time.  When I first started working on it as a final year project in university, I had plenty of ideas that I didn’t think I’d be able to achieve. Few of them were: Auto-tagging a song like Shazam, curating a recommended list for each user, implementing gamification, etc. However, by the end of the year, I noticed that I successfully completed the features of the app that I thought wasn’t achievable.
