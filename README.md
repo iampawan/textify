@@ -6,7 +6,7 @@
 
 ### Tell us what your idea is. 
 My idea is to write a document scanning app using live object detection when the camera is pointed to a document and then:
-1. Exporting the scanned document asPDF
+1. Exporting the scanned document as PDF.
 2. Detecting font, text, and text size for heading and body and creating a digitized PDF to export.
 3. Enabling the digitized document to be edited in a text editor before export.
 4. Translating the document to other languages and exporting the translated document with the same structure of headings and body as the original document.
